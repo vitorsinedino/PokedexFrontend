@@ -1,6 +1,6 @@
 import React from 'react';
 import Axios from 'axios';
-import App from '//home/sara/React_Studies/React-Projects/Pokedex/pokedex-frontend/src/App.js'
+import App from '//home/sara/React_Studies/React-Projects/Pokedex/pokedex-frontend/src/App.jsgi'
 import '../style/Style.css';
 import {StylesProvider, TextField} from '@material-ui/core';
 
